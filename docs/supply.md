@@ -40,51 +40,53 @@ Second Semester, 2026/2027
 
 # Table of Contents
 
-<h2><a href="#abstract" style="color:#8B004B; text-decoration:none;"><b>Abstract</b></a></h2>
+# Table of Contents
 
-<h2><a href="#acknowledgment" style="color:#8B004B; text-decoration:none;"><b>Acknowledgment</b></a></h2>
+<h2><a href="#abstract" style="color:black;text-decoration:none;">Abstract</a></h2>
 
-<h2><a href="#business-intelligence-project-description-and-objectives" style="color:#8B004B; text-decoration:none;"><b>Business Intelligence Project Description and Objectives</b></a></h2>
+<h2><a href="#acknowledgment" style="color:black;text-decoration:none;">Acknowledgment</a></h2>
 
-<h2><a href="#data-research-and-acquiring-effort" style="color:#8B004B; text-decoration:none;"><b>Data Research and Acquiring Effort</b></a></h2>
+<h2><a href="#business-intelligence-project-description-and-objectives" style="color:black;text-decoration:none;">Business Intelligence Project Description and Objectives</a></h2>
 
-<h2><a href="#data-description-and-understanding" style="color:#8B004B; text-decoration:none;"><b>Data Description and Understanding</b></a></h2>
+<h2><a href="#data-research-and-acquiring-effort" style="color:black;text-decoration:none;">Data Research and Acquiring Effort</a></h2>
 
-<h2><a href="#exploratory-data-analysis-eda" style="color:#8B004B; text-decoration:none;"><b>Exploratory Data Analysis (EDA)</b></a></h2>
+<h2><a href="#data-description-and-understanding" style="color:black;text-decoration:none;">Data Description and Understanding</a></h2>
 
-<h2><a href="#data-primary-cleaning-and-transformation" style="color:#8B004B; text-decoration:none;"><b>Data Primary Cleaning and Transformation</b></a></h2>
+<h2><a href="#exploratory-data-analysis-eda" style="color:black;text-decoration:none;">Exploratory Data Analysis (EDA)</a></h2>
 
-<h2><a href="#data-visualization-and-insights" style="color:#8B004B; text-decoration:none;"><b>Data Visualization and Insights</b></a></h2>
+<h2><a href="#data-primary-cleaning-and-transformation" style="color:black;text-decoration:none;">Data Primary Cleaning and Transformation</a></h2>
 
-<h3 style="margin-left:20px;"><a href="#dashboard-design--business-insights" style="color:#8B004B; text-decoration:none;"><b>Dashboard Design & Business Insights</b></a></h3>
+<h2><a href="#data-visualization-and-insights" style="color:black;text-decoration:none;">Data Visualization and Insights</a></h2>
 
-<h4 style="margin-left:40px;"><a href="#supply-chain-operations--delivery-performance-overview" style="color:#8B004B; text-decoration:none;">Supply Chain Operations & Delivery Performance Overview</a></h4>
+<h3 style="margin-left:20px;"><a href="#dashboard-design--business-insights" style="color:black;text-decoration:none;">Dashboard Design & Business Insights</a></h3>
 
-<h4 style="margin-left:40px;"><a href="#supply-chain-profitability--shipping-performance" style="color:#8B004B; text-decoration:none;">Supply Chain Profitability & Shipping Performance</a></h4>
+<h4 style="margin-left:40px;"><a href="#supply-chain-operations--delivery-performance-overview" style="color:black;text-decoration:none;">Supply Chain Operations & Delivery Performance Overview</a></h4>
 
-<h4 style="margin-left:40px;"><a href="#late-delivery-risk--logistics-performance" style="color:#8B004B; text-decoration:none;">Late Delivery Risk & Logistics Performance</a></h4>
+<h4 style="margin-left:40px;"><a href="#supply-chain-profitability--shipping-performance" style="color:black;text-decoration:none;">Supply Chain Profitability & Shipping Performance</a></h4>
 
-<h4 style="margin-left:40px;"><a href="#supply-chain-risk-customer-segmentation--regional-performance" style="color:#8B004B; text-decoration:none;">Supply Chain Risk, Customer Segmentation & Regional Performance</a></h4>
+<h4 style="margin-left:40px;"><a href="#late-delivery-risk--logistics-performance" style="color:black;text-decoration:none;">Late Delivery Risk & Logistics Performance</a></h4>
 
-<h2><a href="#advanced-analytics-and-ai-modeling" style="color:#8B004B; text-decoration:none;"><b>Advanced Analytics and AI Modeling</b></a></h2>
+<h4 style="margin-left:40px;"><a href="#supply-chain-risk-customer-segmentation--regional-performance" style="color:black;text-decoration:none;">Supply Chain Risk, Customer Segmentation & Regional Performance</a></h4>
 
-<h3 style="margin-left:20px;"><a href="#prediction-model" style="color:#8B004B; text-decoration:none;"><b>Prediction Model</b></a></h3>
+<h2><a href="#advanced-analytics-and-ai-modeling" style="color:black;text-decoration:none;">Advanced Analytics and AI Modeling</a></h2>
 
-<h4 style="margin-left:40px;"><a href="#logistic-regression" style="color:#8B004B; text-decoration:none;">Logistic Regression</a></h4>
+<h3 style="margin-left:20px;"><a href="#prediction-model" style="color:black;text-decoration:none;">Prediction Model</a></h3>
 
-<h4 style="margin-left:40px;"><a href="#random-forest" style="color:#8B004B; text-decoration:none;">Random Forest</a></h4>
+<h4 style="margin-left:40px;"><a href="#logistic-regression" style="color:black;text-decoration:none;">Logistic Regression</a></h4>
 
-<h3 style="margin-left:20px;"><a href="#clustering" style="color:#8B004B; text-decoration:none;"><b>Clustering</b></a></h3>
+<h4 style="margin-left:40px;"><a href="#random-forest" style="color:black;text-decoration:none;">Random Forest</a></h4>
 
-<h4 style="margin-left:40px;"><a href="#cluster-analysis-and-business-strategy" style="color:#8B004B; text-decoration:none;">Cluster Analysis and Business Strategy</a></h4>
+<h3 style="margin-left:20px;"><a href="#clustering" style="color:black;text-decoration:none;">Clustering</a></h3>
 
-<h2><a href="#tools-research-and-selection-effort" style="color:#8B004B; text-decoration:none;"><b>Tools Research and Selection Effort</b></a></h2>
+<h4 style="margin-left:40px;"><a href="#cluster-analysis-and-business-strategy" style="color:black;text-decoration:none;">Cluster Analysis and Business Strategy</a></h4>
 
-<h2><a href="#project-deployment-effort--use-case" style="color:#8B004B; text-decoration:none;"><b>Project Deployment Effort – Use Case</b></a></h2>
+<h2><a href="#tools-research-and-selection-effort" style="color:black;text-decoration:none;">Tools Research and Selection Effort</a></h2>
 
-<h2><a href="#results" style="color:#8B004B; text-decoration:none;"><b>Results</b></a></h2>
+<h2><a href="#project-deployment-effort--use-case" style="color:black;text-decoration:none;">Project Deployment Effort – Use Case</a></h2>
 
-<h2><a href="#references" style="color:#8B004B; text-decoration:none;"><b>References</b></a></h2>
+<h2><a href="#results" style="color:black;text-decoration:none;">Results</a></h2>
+
+<h2><a href="#references" style="color:black;text-decoration:none;">References</a></h2>
 
 ---
 
