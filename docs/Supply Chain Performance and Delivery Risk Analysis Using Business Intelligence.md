@@ -1,5 +1,5 @@
-# ![](../images/Petra.png)  Supply Chain Performance and Delivery Risk Analysis
-# Using Business Intelligence                      
+# ![](../images/Petra.png)  <h1 align="center">Supply Chain Performance and Delivery Risk Analysis</h1>
+# <h2 align="center">Using Business Intelligence</h2>                      
    
 
 
