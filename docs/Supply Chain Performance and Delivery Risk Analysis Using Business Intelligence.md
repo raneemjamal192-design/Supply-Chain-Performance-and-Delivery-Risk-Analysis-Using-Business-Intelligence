@@ -1,13 +1,18 @@
-<div style="display:flex; align-items:center;">
+<table>
+<tr>
+<td width="180">
 
 <img src="../images/Petra.png" width="150">
 
-<div style="flex:1; text-align:center;">
-  <h1>Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence </h1>
-</div>
+</td>
 
-</div>
+<td valign="middle">
 
+# Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence
+
+</td>
+</tr>
+</table>
 
 Authors: Raneem Jamal
 
