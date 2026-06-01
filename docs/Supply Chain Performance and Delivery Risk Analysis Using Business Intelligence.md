@@ -1,13 +1,10 @@
-<div style="display:grid; grid-template-columns:180px 1fr 180px; align-items:center;">
+<div style="display:flex; align-items:center;">
 
 <img src="../images/Petra.png" width="150">
 
-<div style="text-align:center;">
-  <h1>Supply Chain Performance and Delivery Risk Analysis</h1>
-  <h2>Using Business Intelligence</h2>
+<div style="flex:1; text-align:center;">
+  <h1>Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence </h1>
 </div>
-
-<div></div>
 
 </div>
 
