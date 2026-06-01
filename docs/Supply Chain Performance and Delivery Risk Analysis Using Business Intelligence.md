@@ -18,45 +18,27 @@ Second Semester, 2026/2027
 
 ---
 
-Table of Contents
+# Table of Contents
 
-## Abstract
-
-## Acknowledgment
-
-## Business Intelligence Project Description and Objectives
-
-## Data Research and Acquiring Effort
-
-## Data Description and Understanding
-
-## Exploratory Data Analysis (EDA)
-
-## Data Primary Cleaning and Transformation
-
-## Data Visualization and Insights
-
-### Dashboard Design & Business Insight
-
-## Advanced Analytics and AI Modeling
-
-### Prediction Model
-
-#### Logistic Regression
-
-#### Random Forest
-
-### Clustering
-
-#### Cluster Analysis and Business Strategy
-
-## Tools Research and Selection Effort
-
-## Project Deployment Effort - Use Case
-
-## Results
-
-## References
+- [Abstract](#abstract)
+- [Acknowledgment](#acknowledgment)
+- [Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
+- [Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
+- [Data Description and Understanding](#data-description-and-understanding)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
+- [Data Visualization and Insights](#data-visualization-and-insights)
+  - [Dashboard Design & Business Insight](#dashboard-design--business-insight)
+- [Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
+  - [Prediction Model](#prediction-model)
+    - [Logistic Regression](#logistic-regression)
+    - [Random Forest](#random-forest)
+  - [Clustering](#clustering)
+    - [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
+- [Tools Research and Selection Effort](#tools-research-and-selection-effort)
+- [Project Deployment Effort - Use Case](#project-deployment-effort---use-case)
+- [Results](#results)
+- [References](#references)
 
 ---
 
