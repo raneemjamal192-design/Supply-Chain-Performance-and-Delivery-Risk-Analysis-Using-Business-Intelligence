@@ -25,7 +25,7 @@ Using a real-world supply chain dataset containing *180,519 records and 53 attri
 
 ---
 
-## [**Objectives**](docs/docs/supply.md#business-intelligence-project-description-and-objectives)
+## [**Objectives**](docs/supply.md#business-intelligence-project-description-and-objectives)
 * Identify factors affecting delivery delays.
 * Predict late delivery risk using machine learning models.
 * Segment operational patterns using clustering techniques.
