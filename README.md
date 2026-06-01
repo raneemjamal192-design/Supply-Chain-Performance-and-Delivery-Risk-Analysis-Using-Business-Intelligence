@@ -25,7 +25,7 @@ Using a real-world supply chain dataset containing *180,519 records and 53 attri
 
 ---
 
-## [**Objectives**](docs/docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#business-intelligence-project-description-and-objectives)* Analyze supply chain performance and operational efficiency.
+## [**Objectives**](docs/docs/supply.md#business-intelligence-project-description-and-objectives)
 * Identify factors affecting delivery delays.
 * Predict late delivery risk using machine learning models.
 * Segment operational patterns using clustering techniques.
