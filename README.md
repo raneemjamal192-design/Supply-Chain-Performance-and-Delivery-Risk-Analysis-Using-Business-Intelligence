@@ -2,7 +2,7 @@
 <tr>
 <td width="180">
 
-<img src="../images/Petra.png" width="150">
+<img src="..\images\Petra.png" width="150">
 
 </td>
 
