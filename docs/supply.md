@@ -34,59 +34,27 @@ Second Semester, 2026/2027
 ---
 
 
-
 # Table of Contents
 
-
-# Table of Contents
-
-# Table of Contents
-
-<h2><a href="#abstract" style="color:black;text-decoration:none;">Abstract</a></h2>
-
-<h2><a href="#acknowledgment" style="color:black;text-decoration:none;">Acknowledgment</a></h2>
-
-<h2><a href="#business-intelligence-project-description-and-objectives" style="color:black;text-decoration:none;">Business Intelligence Project Description and Objectives</a></h2>
-
-<h2><a href="#data-research-and-acquiring-effort" style="color:black;text-decoration:none;">Data Research and Acquiring Effort</a></h2>
-
-<h2><a href="#data-description-and-understanding" style="color:black;text-decoration:none;">Data Description and Understanding</a></h2>
-
-<h2><a href="#exploratory-data-analysis-eda" style="color:black;text-decoration:none;">Exploratory Data Analysis (EDA)</a></h2>
-
-<h2><a href="#data-primary-cleaning-and-transformation" style="color:black;text-decoration:none;">Data Primary Cleaning and Transformation</a></h2>
-
-<h2><a href="#data-visualization-and-insights" style="color:black;text-decoration:none;">Data Visualization and Insights</a></h2>
-
-<h3 style="margin-left:20px;"><a href="#dashboard-design--business-insights" style="color:black;text-decoration:none;">Dashboard Design & Business Insights</a></h3>
-
-<h4 style="margin-left:40px;"><a href="#supply-chain-operations--delivery-performance-overview" style="color:black;text-decoration:none;">Supply Chain Operations & Delivery Performance Overview</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#supply-chain-profitability--shipping-performance" style="color:black;text-decoration:none;">Supply Chain Profitability & Shipping Performance</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#late-delivery-risk--logistics-performance" style="color:black;text-decoration:none;">Late Delivery Risk & Logistics Performance</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#supply-chain-risk-customer-segmentation--regional-performance" style="color:black;text-decoration:none;">Supply Chain Risk, Customer Segmentation & Regional Performance</a></h4>
-
-<h2><a href="#advanced-analytics-and-ai-modeling" style="color:black;text-decoration:none;">Advanced Analytics and AI Modeling</a></h2>
-
-<h3 style="margin-left:20px;"><a href="#prediction-model" style="color:black;text-decoration:none;">Prediction Model</a></h3>
-
-<h4 style="margin-left:40px;"><a href="#logistic-regression" style="color:black;text-decoration:none;">Logistic Regression</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#random-forest" style="color:black;text-decoration:none;">Random Forest</a></h4>
-
-<h3 style="margin-left:20px;"><a href="#clustering" style="color:black;text-decoration:none;">Clustering</a></h3>
-
-<h4 style="margin-left:40px;"><a href="#cluster-analysis-and-business-strategy" style="color:black;text-decoration:none;">Cluster Analysis and Business Strategy</a></h4>
-
-<h2><a href="#tools-research-and-selection-effort" style="color:black;text-decoration:none;">Tools Research and Selection Effort</a></h2>
-
-<h2><a href="#project-deployment-effort--use-case" style="color:black;text-decoration:none;">Project Deployment Effort – Use Case</a></h2>
-
-<h2><a href="#results" style="color:black;text-decoration:none;">Results</a></h2>
-
-<h2><a href="#references" style="color:black;text-decoration:none;">References</a></h2>
+# - [Abstract](#abstract)
+# - [Acknowledgment](#acknowledgment)
+# - [Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
+# - [Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
+# - [Data Description and Understanding](#data-description-and-understanding)
+# - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+# - [Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
+# - [Data Visualization and Insights](#data-visualization-and-insights)
+#   - [Dashboard Design & Business Insights](#dashboard-design--business-insights)
+# - [Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
+#   - [Prediction Model](#prediction-model)
+#     - [Logistic Regression](#logistic-regression)
+#     - [Random Forest](#random-forest)
+#   - [Clustering](#clustering)
+#     - [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
+# - [Tools Research and Selection Effort](#tools-research-and-selection-effort)
+# - [Project Deployment Effort – Use Case](#project-deployment-effort--use-case)
+# - [Results](#results)
+# - [References](#references)
 
 ---
 
