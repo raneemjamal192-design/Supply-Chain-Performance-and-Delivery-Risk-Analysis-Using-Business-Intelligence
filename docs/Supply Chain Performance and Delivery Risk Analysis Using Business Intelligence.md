@@ -1,19 +1,12 @@
-# Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence
+# Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence                                                                                   ![](../images/Petra.png)
 
-Authors
 
-Raneem Jamal
+Authors: Raneem Jamal
+Student ID: 202210362
 
-202210362
 
-![](../images/Petra.png)
-
-Supervised by
-
-Dr Husam Barham
-
+Supervised by: Dr. Husam Barham
 Course: 307498 - Graduation Project
-
 Second Semester, 2026/2027
 
 ---
