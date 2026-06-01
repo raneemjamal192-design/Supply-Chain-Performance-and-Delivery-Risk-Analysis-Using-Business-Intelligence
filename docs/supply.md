@@ -37,43 +37,31 @@ Second Semester, 2026/2027
 
 # Table of Contents
 
-## [**Abstract**](#abstract)
+# Table of Contents
 
-## [**Acknowledgment**](#acknowledgment)
-
-## [**Business Intelligence Project Description and Objectives**](#business-intelligence-project-description-and-objectives)
-
-## [**Data Research and Acquiring Effort**](#data-research-and-acquiring-effort)
-
-## [**Data Description and Understanding**](#data-description-and-understanding)
-
-## [**Exploratory Data Analysis (EDA)**](#exploratory-data-analysis-eda)
-
-## [**Data Primary Cleaning and Transformation**](#data-primary-cleaning-and-transformation)
-
-## [**Data Visualization and Insights**](#data-visualization-and-insights)
-
-### - [**Dashboard Design & Business Insights**](#dashboard-design--business-insights)
-  
-## [**Advanced Analytics and AI Modeling**](#advanced-analytics-and-ai-modeling)
-
-###  - [**Prediction Model**](#prediction-model)
-    
-####    - [**Logistic Regression**](#logistic-regression)
-      
-####    - [**Random Forest**](#random-forest)
-      
-###  - [**Clustering**](#clustering)
-    
-####    - [**Cluster Analysis and Business Strategy**](#cluster-analysis-and-business-strategy)
-      
-## [**Tools Research and Selection Effort**](#tools-research-and-selection-effort)
-
-## [**Project Deployment Effort – Use Case**](#project-deployment-effort--use-case)
-
-## [**Results**](#results)
-
-## [**References**](#references)
+- [Abstract](#abstract)
+- [Acknowledgment](#acknowledgment)
+- [Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
+- [Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
+- [Data Description and Understanding](#data-description-and-understanding)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
+- [Data Visualization and Insights](#data-visualization-and-insights)
+  - [Dashboard Design & Business Insights](#dashboard-design--business-insights)
+    - [Supply Chain Operations & Delivery Performance Overview](#supply-chain-operations--delivery-performance-overview)
+    - [Supply Chain Profitability & Shipping Performance](#supply-chain-profitability--shipping-performance)
+    - [Late Delivery Risk & Logistics Performance](#late-delivery-risk--logistics-performance)
+    - [Supply Chain Risk, Customer Segmentation & Regional Performance](#supply-chain-risk-customer-segmentation--regional-performance)
+- [Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
+  - [Prediction Model](#prediction-model)
+    - [Logistic Regression](#logistic-regression)
+    - [Random Forest](#random-forest)
+  - [Clustering](#clustering)
+    - [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
+- [Tools Research and Selection Effort](#tools-research-and-selection-effort)
+- [Project Deployment Effort – Use Case](#project-deployment-effort--use-case)
+- [Results](#results)
+- [References](#references)
 
 ---
 
