@@ -25,7 +25,7 @@ Using a real-world supply chain dataset containing *180,519 records and 53 attri
 
 ---
 
-## Objectives 
+## Objectives (docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#business-intelligence-project-description-and-objectives)
 
 * Analyze supply chain performance and operational efficiency.
 * Identify factors affecting delivery delays.
