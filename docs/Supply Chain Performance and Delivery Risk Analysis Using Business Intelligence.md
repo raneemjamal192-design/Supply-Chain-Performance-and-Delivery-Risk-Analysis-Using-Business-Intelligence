@@ -1,14 +1,26 @@
-# ![](../images/Petra.png)  <h1 align="center">Supply Chain Performance and Delivery Risk Analysis</h1>
-# <h2 align="center">Using Business Intelligence</h2>                      
-   
+<div style="display:grid; grid-template-columns:180px 1fr 180px; align-items:center;">
+
+<img src="../images/Petra.png" width="150">
+
+<div style="text-align:center;">
+  <h1>Supply Chain Performance and Delivery Risk Analysis</h1>
+  <h2>Using Business Intelligence</h2>
+</div>
+
+<div></div>
+
+</div>
 
 
 Authors: Raneem Jamal
+
 Student ID: 202210362
 
 
 Supervised by: Dr. Husam Barham
+
 Course: 307498 - Graduation Project
+
 Second Semester, 2026/2027
 
 ---
