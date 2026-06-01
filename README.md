@@ -33,7 +33,7 @@ Using a real-world supply chain dataset containing *180,519 records and 53 attri
 
 ---
 
-## Dataset Overview
+## [**Dataset Overview**](docs/supply.md#data-description-and-understanding)
 
 The dataset contains information related to:
 
@@ -48,7 +48,7 @@ The dataset contains information related to:
 
 ---
 
-## Data Cleaning and Transformation
+## [**Data Cleaning and Transformation**](docs/supply.md#data-primary-cleaning-and-transformation)
 
 The dataset was prepared using KNIME through:
 
@@ -63,7 +63,7 @@ The dataset was prepared using KNIME through:
 
 ---
 
-## Business Intelligence Dashboards
+## [**Business Intelligence Dashboards**](docs/supply.md#dashboard-design--business-insights)
 
 ### 1. Supply Chain Operations & Delivery Performance Overview
 
@@ -118,9 +118,10 @@ The dataset was prepared using KNIME through:
 
 ---
 
-## Machine Learning Models
+## [**Machine Learning Models**](docs/supply.md#prediction)
 
-### Logistic Regression
+
+### [**Logistic Regression**](docs/supply.md#logistic-regression)
 
 Workflow:
 
@@ -142,7 +143,7 @@ Performance Metrics:
 
 ---
 
-### Random Forest
+### [**Random Forest**](docs/supply.md#random-forest)
 
 Workflow:
 
@@ -181,7 +182,7 @@ The Random Forest model outperformed Logistic Regression and achieved the highes
 
 ---
 
-## Clustering Analysis
+## [**Clustering Analysis**](docs/supply.md#clustering)
 
 K-Means clustering was applied to identify operational patterns and supply chain segments.
 
@@ -217,7 +218,7 @@ Cluster Distribution:
 
 ---
 
-## Technologies Used
+## [**Technologies Used**](docs/supply.md#tools-research-and-selection-effort)
 
 ### KNIME
 
@@ -266,7 +267,7 @@ This project helps organizations:
 
 ---
 
-## Conclusion
+## [**Conclusion**](docs/supply.md#results)
 
 This project demonstrates how Business Intelligence, Data Analytics, and Machine Learning can be integrated to transform raw supply chain data into actionable insights.
 
