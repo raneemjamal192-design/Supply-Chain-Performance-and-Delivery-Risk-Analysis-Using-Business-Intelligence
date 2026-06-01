@@ -20,51 +20,43 @@ Second Semester, 2026/2027
 
 Table of Contents
 
-[Abstract 3](#_Toc230210191)
+[Abstract](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Abstract)
 
-[Acknowledgment 4](#_Toc230210192)
+[Acknowledgment](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Acknowledgment)
 
-[Business Intelligence Project Description and Objectives 5](#_Toc230210193)
+[Business Intelligence Project Description and Objectives](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Business Intelligence Project Description and Objectives)
 
-[Data Research and Acquiring Effort 6](#_Toc230210194)
+[Data Research and Acquiring Effort]((docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Research and Acquiring Effort)
 
-[Data Description and Understanding 7](#_Toc230210195)
+[Data Description and Understanding](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Description and Understanding)
 
-[Exploratory Data Analysis (EDA) 10](#_Toc230210196)
+[Exploratory Data Analysis (EDA)](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Exploratory Data Analysis (EDA))
 
-[Data Primary Cleaning and Transformation 11](#_Toc230210197)
+[Data Primary Cleaning and Transformation](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Primary Cleaning and Transformation)
 
-[Data Visualization and Insights 12](#_Toc230210198)
+[Data Visualization and Insights](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Visualization and Insights)
 
-[Dashboard Design & Business Insights 12](#_Toc230210199)
+[Dashboard Design & Business Insights](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md##Dashboard Design & Business Insights)
 
-[Supply Chain Operations & Delivery Performance Overview. 12](#_Toc230210200)
+[Advanced Analytics and AI Modeling](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Advanced Analytics and AI Modeling)
 
-[Supply Chain Profitability & Shipping Performance 17](#_Toc230210201)
+[Prediction Model](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md##Prediction Model)
 
-[Late Delivery Risk & Logistics Performance 20](#_Toc230210202)
+[Logistic Regression](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md###Logistic Regression)
 
-[Supply Chain Risk, Customer Segmentation & Regional Performance 23](#_Toc230210203)
+[Random Forest](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md###Random Forest)
 
-[Advanced Analytics and AI Modeling 28](#_Toc230210204)
+[Clustering](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md##Clustering)
 
-[Prediction Model 29](#_Toc230210205)
+[Cluster Analysis and Business Strategy](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md###Cluster Analysis and Business Strategy)
 
-[Logistic Regression 30](#_Toc230210206)
+[Tools Research and Selection Effort](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Tools Research and Selection Effort)
 
-[Random Forest 31](#_Toc230210207)
+[Project Deployment Effort - Use Case](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Project Deployment Effort - Use Case)
 
-[Clustering 34](#_Toc230210208)
+[Results](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Results)
 
-[Cluster Analysis and Business Strategy 35](#_Toc230210209)
-
-[Tools Research and Selection Effort 37](#_Toc230210210)
-
-[Project Deployment Effort - Use Case 38](#_Toc230210211)
-
-[Results 40](#_Toc230210212)
-
-[References 40](#_Toc230210213)
+[References](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#References)
 
 ---
 
