@@ -118,7 +118,7 @@ The dataset was prepared using KNIME through:
 
 ---
 
-## [**Machine Learning Models**](docs/supply.md#prediction)
+## [**Machine Learning Models**](docs/supply.md#prediction-model)
 
 
 ### [**Logistic Regression**](docs/supply.md#logistic-regression)
