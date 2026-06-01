@@ -140,7 +140,7 @@ Confusion Matrix:
 
 Performance Metrics:
 
-![Logistic Regression Results](../images/ResultsLogistic.png)
+![Logistic Regression Results](images/ResultsLogistic.png)
 
 ---
 
