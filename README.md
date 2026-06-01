@@ -61,7 +61,7 @@ The dataset was prepared using KNIME through:
 * Feature transformation
 * Data filtering
 
-![Data Cleaning](../images/Cleaning.png)
+![Data Cleaning](images/Cleaning.png)
 
 ---
 
@@ -69,7 +69,7 @@ The dataset was prepared using KNIME through:
 
 ### 1. Supply Chain Operations & Delivery Performance Overview
 
-![Dashboard 1](../images/1.png)
+![Dashboard 1](images/1.png)
 
 **Key Insights**
 
@@ -83,7 +83,7 @@ The dataset was prepared using KNIME through:
 
 ### 2. Supply Chain Profitability & Shipping Performance
 
-![Dashboard 2](../images/2.png)
+![Dashboard 2](images/2.png)
 
 **Key Insights**
 
@@ -96,7 +96,7 @@ The dataset was prepared using KNIME through:
 
 ### 3. Late Delivery Risk & Logistics Performance
 
-![Dashboard 3](../images/3.png)
+![Dashboard 3](images/3.png)
 
 **Key Insights**
 
@@ -109,7 +109,7 @@ The dataset was prepared using KNIME through:
 
 ### 4. Supply Chain Risk & Regional Performance
 
-![Dashboard 4](../images/4.png)
+![Dashboard 4](images/4.png)
 
 **Key Insights**
 
@@ -126,7 +126,7 @@ The dataset was prepared using KNIME through:
 
 Workflow:
 
-![Logistic Regression Workflow](../images/Logistic.png)
+![Logistic Regression Workflow](images/Logistic.png)
 
 **Results**
 
@@ -136,7 +136,7 @@ Workflow:
 
 Confusion Matrix:
 
-![Logistic Regression Confusion Matrix](../images/CML.png)
+![Logistic Regression Confusion Matrix](images/CML.png)
 
 Performance Metrics:
 
@@ -148,7 +148,7 @@ Performance Metrics:
 
 Workflow:
 
-![Random Forest Workflow](../images/Random.png)
+![Random Forest Workflow](images/Random.png)
 
 **Results**
 
@@ -158,11 +158,11 @@ Workflow:
 
 Confusion Matrix:
 
-![Random Forest Confusion Matrix](../images/CMR.png)
+![Random Forest Confusion Matrix](images/CMR.png)
 
 Performance Metrics:
 
-![Random Forest Results](../images/ResultsRandom.png)
+![Random Forest Results](images/ResultsRandom.png)
 
 ---
 
@@ -189,15 +189,15 @@ K-Means clustering was applied to identify operational patterns and supply chain
 
 Workflow:
 
-![Clustering Workflow](../images/Clustering.png)
+![Clustering Workflow](images/Clustering.png)
 
 Cluster Centroids:
 
-![Cluster Centroids](../images/Centroids.png)
+![Cluster Centroids](images/Centroids.png)
 
 Cluster Distribution:
 
-![Cluster Distribution](../images/ClusteringDist..png)
+![Cluster Distribution](images/ClusteringDist..png)
 
 ### Cluster 0 – High-Risk Delayed Orders
 
