@@ -42,13 +42,13 @@ Second Semester, 2026/2027
 
   [Prediction Model](#prediction-model)
   
-    [Logistic Regression](#logistic-regression)
+   - [Logistic Regression](#logistic-regression)
     
-    [Random Forest](#random-forest)
+   - [Random Forest](#random-forest)
     
   [Clustering](#clustering)
   
-    [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
+   - [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
     
 [Tools Research and Selection Effort](#tools-research-and-selection-effort)
 
