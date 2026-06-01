@@ -20,43 +20,43 @@ Second Semester, 2026/2027
 
 Table of Contents
 
-[Abstract](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Abstract)
+## Abstract
 
-[Acknowledgment](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Acknowledgment)
+## Acknowledgment
 
-[Business Intelligence Project Description and Objectives](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Business Intelligence Project Description and Objectives)
+## Business Intelligence Project Description and Objectives
 
-[Data Research and Acquiring Effort]((docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Research and Acquiring Effort)
+## Data Research and Acquiring Effort
 
-[Data Description and Understanding](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Description and Understanding)
+## Data Description and Understanding
 
-[Exploratory Data Analysis (EDA)](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Exploratory Data Analysis (EDA))
+## Exploratory Data Analysis (EDA)
 
-[Data Primary Cleaning and Transformation](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Primary Cleaning and Transformation)
+## Data Primary Cleaning and Transformation
 
-[Data Visualization and Insights](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Data Visualization and Insights)
+## Data Visualization and Insights
 
-[Dashboard Design & Business Insights](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md##Dashboard Design & Business Insights)
+### Dashboard Design & Business Insight
 
-[Advanced Analytics and AI Modeling](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Advanced Analytics and AI Modeling)
+## Advanced Analytics and AI Modeling
 
-[Prediction Model](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md##Prediction Model)
+### Prediction Model
 
-[Logistic Regression](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md###Logistic Regression)
+#### Logistic Regression
 
-[Random Forest](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md###Random Forest)
+#### Random Forest
 
-[Clustering](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md##Clustering)
+### Clustering
 
-[Cluster Analysis and Business Strategy](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md###Cluster Analysis and Business Strategy)
+#### Cluster Analysis and Business Strategy
 
-[Tools Research and Selection Effort](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Tools Research and Selection Effort)
+## Tools Research and Selection Effort
 
-[Project Deployment Effort - Use Case](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Project Deployment Effort - Use Case)
+## Project Deployment Effort - Use Case
 
-[Results](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#Results)
+## Results
 
-[References](docs/Supply Chain Performance and Delivery Risk Analysis Using Business Intelligence.md#References)
+## References
 
 ---
 
