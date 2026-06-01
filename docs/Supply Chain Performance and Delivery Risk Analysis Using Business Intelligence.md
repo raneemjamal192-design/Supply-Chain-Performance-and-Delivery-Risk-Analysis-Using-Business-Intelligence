@@ -21,10 +21,6 @@ Second Semester, 2026/2027
 
 # Table of Contents
 
-# Table of Contents
-
-# Table of Contents
-
 <h2><a href="#abstract">Abstract</a></h2>
 
 <h2><a href="#acknowledgment">Acknowledgment</a></h2>
@@ -42,14 +38,6 @@ Second Semester, 2026/2027
 <h2><a href="#data-visualization-and-insights">Data Visualization and Insights</a></h2>
 
 <h3 style="margin-left:20px;"><a href="#dashboard-design--business-insights">Dashboard Design & Business Insights</a></h3>
-
-<h4 style="margin-left:40px;"><a href="#supply-chain-operations--delivery-performance-overview">Supply Chain Operations & Delivery Performance Overview</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#supply-chain-profitability--shipping-performance">Supply Chain Profitability & Shipping Performance</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#late-delivery-risk--logistics-performance">Late Delivery Risk & Logistics Performance</a></h4>
-
-<h4 style="margin-left:40px;"><a href="#supply-chain-risk-customer-segmentation--regional-performance">Supply Chain Risk, Customer Segmentation & Regional Performance</a></h4>
 
 <h2><a href="#advanced-analytics-and-ai-modeling">Advanced Analytics and AI Modeling</a></h2>
 
