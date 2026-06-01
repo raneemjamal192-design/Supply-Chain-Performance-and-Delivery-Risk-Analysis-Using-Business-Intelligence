@@ -18,45 +18,28 @@ Second Semester, 2026/2027
 
 ---
 
+
 # Table of Contents
 
-[Abstract](#abstract)
+[Abstract](#abstract) | [Acknowledgment](#acknowledgment) | [Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
 
-[Acknowledgment](#acknowledgment)
+[Data Research and Acquiring Effort](#data-research-and-acquiring-effort) | [Data Description and Understanding](#data-description-and-understanding)
 
-[Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
+[Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda) | [Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
 
-[Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
+[Data Visualization and Insights](#data-visualization-and-insights) | [Dashboard Design & Business Insight](#dashboard-design--business-insight)
 
-[Data Description and Understanding](#data-description-and-understanding)
+[Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling) | [Prediction Model](#prediction-model)
 
-[Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+[Logistic Regression](#logistic-regression) | [Random Forest](#random-forest)
 
-[Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
+[Clustering](#clustering) | [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
 
-[Data Visualization and Insights](#data-visualization-and-insights)
-
-  [Dashboard Design & Business Insight](#dashboard-design--business-insight)
-  
-[Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
-
-  [Prediction Model](#prediction-model)
-  
-   - [Logistic Regression](#logistic-regression)
-    
-   - [Random Forest](#random-forest)
-    
-  [Clustering](#clustering)
-  
-   - [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
-    
 [Tools Research and Selection Effort](#tools-research-and-selection-effort)
 
 [Project Deployment Effort - Use Case](#project-deployment-effort---use-case)
 
-[Results](#results)
-
-[References](#references)
+[Results](#results) | [References](#references)
 
 ---
 
