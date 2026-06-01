@@ -38,51 +38,43 @@ Second Semester, 2026/2027
 
 # Table of Contents
 
-## Abstract
+[Abstract](#abstract)
 
-## Acknowledgment
+[Acknowledgment](#acknowledgment)
 
-## Business Intelligence Project Description and Objectives
+[Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
 
-## Data Research and Acquiring Effort
+[Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
 
-## Data Description and Understanding
+[Data Description and Understanding](#data-description-and-understanding)
 
-## Exploratory Data Analysis (EDA)
+[Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 
-## Data Primary Cleaning and Transformation
+[Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
 
-## Data Visualization and Insights
+[Data Visualization and Insights](#data-visualization-and-insights)
 
-### Dashboard Design & Business Insights
+- [Dashboard Design & Business Insights](#dashboard-design--business-insights)
+  
+[Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
 
-#### Supply Chain Operations & Delivery Performance Overview
+  - [Prediction Model](#prediction-model)
+    
+    - [Logistic Regression](#logistic-regression)
+      
+    - [Random Forest](#random-forest)
+      
+  - [Clustering](#clustering)
+    
+    - [Cluster Analysis and Business Strategy](#cluster-analysis-and-business-strategy)
+      
+[Tools Research and Selection Effort](#tools-research-and-selection-effort)
 
-#### Supply Chain Profitability & Shipping Performance
+[Project Deployment Effort – Use Case](#project-deployment-effort--use-case)
 
-#### Late Delivery Risk & Logistics Performance
+[Results](#results)
 
-#### Supply Chain Risk, Customer Segmentation & Regional Performance
-
-## Advanced Analytics and AI Modeling
-
-### Prediction Model
-
-#### Logistic Regression
-
-#### Random Forest
-
-### Clustering
-
-#### Cluster Analysis and Business Strategy
-
-## Tools Research and Selection Effort
-
-## Project Deployment Effort – Use Case
-
-## Results
-
-## References
+[References](#references)
 
 ---
 
