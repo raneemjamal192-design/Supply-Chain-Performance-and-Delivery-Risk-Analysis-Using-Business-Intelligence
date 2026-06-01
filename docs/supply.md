@@ -36,43 +36,53 @@ Second Semester, 2026/2027
 
 # Table of Contents
 
-<h2><a href="#abstract">Abstract</a></h2>
+# Table of Contents
 
-<h2><a href="#acknowledgment">Acknowledgment</a></h2>
+## Abstract
 
-<h2><a href="#business-intelligence-project-description-and-objectives">Business Intelligence Project Description and Objectives</a></h2>
+## Acknowledgment
 
-<h2><a href="#data-research-and-acquiring-effort">Data Research and Acquiring Effort</a></h2>
+## Business Intelligence Project Description and Objectives
 
-<h2><a href="#data-description-and-understanding">Data Description and Understanding</a></h2>
+## Data Research and Acquiring Effort
 
-<h2><a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a></h2>
+## Data Description and Understanding
 
-<h2><a href="#data-primary-cleaning-and-transformation">Data Primary Cleaning and Transformation</a></h2>
+## Exploratory Data Analysis (EDA)
 
-<h2><a href="#data-visualization-and-insights">Data Visualization and Insights</a></h2>
+## Data Primary Cleaning and Transformation
 
-<h3 style="margin-left:20px;"><a href="#dashboard-design--business-insights">Dashboard Design & Business Insights</a></h3>
+## Data Visualization and Insights
 
-<h2><a href="#advanced-analytics-and-ai-modeling">Advanced Analytics and AI Modeling</a></h2>
+### Dashboard Design & Business Insights
 
-<h3 style="margin-left:20px;"><a href="#prediction-model">Prediction Model</a></h3>
+#### Supply Chain Operations & Delivery Performance Overview
 
-<h4 style="margin-left:40px;"><a href="#logistic-regression">Logistic Regression</a></h4>
+#### Supply Chain Profitability & Shipping Performance
 
-<h4 style="margin-left:40px;"><a href="#random-forest">Random Forest</a></h4>
+#### Late Delivery Risk & Logistics Performance
 
-<h3 style="margin-left:20px;"><a href="#clustering">Clustering</a></h3>
+#### Supply Chain Risk, Customer Segmentation & Regional Performance
 
-<h4 style="margin-left:40px;"><a href="#cluster-analysis-and-business-strategy">Cluster Analysis and Business Strategy</a></h4>
+## Advanced Analytics and AI Modeling
 
-<h2><a href="#tools-research-and-selection-effort">Tools Research and Selection Effort</a></h2>
+### Prediction Model
 
-<h2><a href="#project-deployment-effort--use-case">Project Deployment Effort – Use Case</a></h2>
+#### Logistic Regression
 
-<h2><a href="#results">Results</a></h2>
+#### Random Forest
 
-<h2><a href="#references">References</a></h2>
+### Clustering
+
+#### Cluster Analysis and Business Strategy
+
+## Tools Research and Selection Effort
+
+## Project Deployment Effort – Use Case
+
+## Results
+
+## References
 
 ---
 
