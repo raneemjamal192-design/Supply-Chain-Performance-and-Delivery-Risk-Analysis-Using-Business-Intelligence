@@ -50,7 +50,7 @@ The dataset contains information related to:
 
 ## [**Data Cleaning and Transformation**](docs/supply.md#data-primary-cleaning-and-transformation)
 
-The dataset was prepared using KNIME through:
+The dataset was prepared using Power BI through:
 
 * Data type conversion
 * Duplicate removal
